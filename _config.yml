@@ -1,12 +1,18 @@
-title: Ajay Mohandas
-logo: /assets/img/photo1.jpg
-description: 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ajay-mohandas-a3857b44/">LinkedIn</a> |
-    <a href="https://github.com/ajayvmohandas">GitHub</a>
-  </p>
-  <p align="center">
-    Data scientist with 4 years of experience at Infosys Limited, specializing in developing impactful data-driven solutions for US clients. Adept in statistical analysis, machine learning, natural language processing, and data visualization, with a strong technical background in Python.
-  </p>
-theme: jekyll-theme-minimal
+title: <p align="center"> Ajay Mohandas </p>
+logo: /assets/img/photo1.png
 
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/ajay-mohandas-a3857b44/">LinkedIn</a> |
+  <a href="https://github.com/ajayvmohandas">GitHub</a>
+  
+  <br>   
+  Data scientist with 4 years of experience at Infosys Limited, specializing in developing impactful data-driven 
+  solutions for US clients. Adept in statistical analysis, machine learning, natural language processing and data 
+  visualization, with a strong technical background in Python.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
