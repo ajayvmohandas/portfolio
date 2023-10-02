@@ -1,5 +1,6 @@
 # Data Science Portfolio
 ---
+
 ## Text Processing and Sentiment Analysis
 
 Led the development and implementation of advanced NLP algorithms, utilizing robust text processing techniques, web scraping, and data analysis to extract valuable insights from extensive customer feedback data.
