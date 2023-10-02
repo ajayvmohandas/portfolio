@@ -5,6 +5,7 @@
 Led the development and implementation of advanced NLP algorithms, utilizing robust text processing techniques, web scraping, and data analysis to extract valuable insights from extensive customer feedback data.
 <center><img src="assets/img/sentiment.jpg"/></center>
 
+---
 ## Testcase Prioratization
 
 • Prioritized the testcases using Lstm and Neural network models based on the 
@@ -15,8 +16,9 @@ framework.
 prioritization and enhanced data visualization techniques
 <center><img src="assets/img/deeplearning.jpg"/></center>
 
+---
 ## AI Optimization and Application development
-Worked on development of multiple applications in Palantir cloud for a leading 
+• Worked on development of multiple applications in Palantir cloud for a leading 
 airline company, supporting data analysis, flight operations, and other business 
 functions.
 • Developed an AI-based application on Palantir Cloud that utilized AI models to 
