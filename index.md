@@ -13,7 +13,7 @@ severity level
 framework.
 • Successfully reduced daily testing time by 25% through streamlined test case 
 prioritization and enhanced data visualization techniques
-<center><img src="assets/img/deeplearnig.webg"/></center>
+<center><img src="assets/img/deeplearning.jpg"/></center>
 
 ## AI Optimization and Application development
 Worked on development of multiple applications in Palantir cloud for a leading 
